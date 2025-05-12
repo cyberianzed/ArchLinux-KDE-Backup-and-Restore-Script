@@ -35,14 +35,14 @@ arch-linux-setup/
 
 ### Backup
 
-1. Clone this repo 
-2. `./backup.sh`
+1. Clone this repo `https://github.com/cyberianzed/ArchLinux-KDE-Backup-and-Restore-Script.git`
+2. Run `./backup.sh`
 3. Your backup will be saved in `arch-backup/`
 
 ### Restore
 
 1. Copy the folder on the new machine
-2. Run: `./restore.sh`
+2. Run `./restore.sh`
 3. Reboot or log out/in
 
 ## Tips
